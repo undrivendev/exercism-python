@@ -2,6 +2,15 @@ import random
 
 
 class Robot:
+    """Represents the robot class.
+
+    Args:
+        name: 
+            A string generated with a specific 
+            format during initialization and when the method
+            reset() is called.
+    """
+
     name = ""
 
     def __init__(self):
