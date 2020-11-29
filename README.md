@@ -9,3 +9,5 @@ Solutions of the Python track exercism problems.
 ## Side exercises
 1. Pangram https://exercism.io/tracks/python/exercises/pangram/solutions/78f805a144214fcebc4a6d22f57aa93d
 2. Leap https://exercism.io/tracks/python/exercises/leap/solutions/e19d83a857054be980adf36926656501
+3. Robot Name https://exercism.io/tracks/python/exercises/robot-name/solutions/0025d17fc8eb42a1867c93b3f57c139d
+4. Armstrong Numbers https://exercism.io/tracks/python/exercises/armstrong-numbers/solutions/f70263c687004aa1b4ff68d998ee0e6c
