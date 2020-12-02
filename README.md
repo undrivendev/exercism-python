@@ -5,6 +5,7 @@ Solutions of the Python track exercism problems.
 ## Core exercises
 1. Hello World https://exercism.io/tracks/python/exercises/hello-world/solutions/60bce09b67dc4f52bfd4fafb839e597b
 2. Two Fer https://exercism.io/tracks/python/exercises/two-fer/solutions/4950467896fc4e509995a6e2e0647b0f
+3. Raindrops https://exercism.io/tracks/python/exercises/raindrops/solutions/90f1307e7e134072b1357d1837ff835b
 
 ## Side exercises
 1. Pangram https://exercism.io/tracks/python/exercises/pangram/solutions/78f805a144214fcebc4a6d22f57aa93d
