@@ -23,10 +23,10 @@ def get_protein_name(codon: str) -> str:
 
 def proteins(strand: str) -> List[str]:
     """Translates the input DNA strand to its respective Amino Acids.
-    
+
     Args:
         strand: the DNA strand to translate
-    
+
     Returns:  
         A list containing the respective Amino Acids.
 
@@ -36,10 +36,10 @@ def proteins(strand: str) -> List[str]:
     if len(strand) % 3:
         raise ValueError("The input strand argument has an invalid length.")
 
+    stop_sequences = {"UAA", "UAG", "UGA"}
     result: List[str] = []
-    for i in range(0, len(strand) - 2, 3):
-        current_sequence = strand[i:i+3]
-        if current_sequence == "UAA" or current_sequence == "UAG" or current_sequence == "UGA":
+    for codon in [strand[i:i+3] for i in range(0, len(strand) - 2, 3)]:
+        if codon in stop_sequences:
             break
-        result.append(get_protein_name(current_sequence))
+        result.append(get_protein_name(codon))
     return result
