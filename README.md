@@ -14,3 +14,4 @@ Solutions of the Python track exercism problems.
 4. Armstrong Numbers https://exercism.io/tracks/python/exercises/armstrong-numbers/solutions/f70263c687004aa1b4ff68d998ee0e6c
 5. Protein Tranlation https://exercism.io/tracks/python/exercises/protein-translation/solutions/a714b393618e4fe7bd29844b2e48385f
 6. Reverse String https://exercism.io/tracks/python/exercises/reverse-string/solutions/527730884fde44daa1afc80b81442a2f
+7. Series https://exercism.io/tracks/python/exercises/series/solutions/bfedb451006245159e974dacfd752464
