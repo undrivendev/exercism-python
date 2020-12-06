@@ -15,3 +15,4 @@ Solutions of the Python track exercism problems.
 5. Protein Tranlation https://exercism.io/tracks/python/exercises/protein-translation/solutions/a714b393618e4fe7bd29844b2e48385f
 6. Reverse String https://exercism.io/tracks/python/exercises/reverse-string/solutions/527730884fde44daa1afc80b81442a2f
 7. Series https://exercism.io/tracks/python/exercises/series/solutions/bfedb451006245159e974dacfd752464
+8. ISBN Verifier https://exercism.io/tracks/python/exercises/isbn-verifier/solutions/052c7a683cdd437d9787bcc50e4ada06
