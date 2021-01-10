@@ -16,3 +16,4 @@ Solutions of the Python track exercism problems.
 6. Reverse String https://exercism.io/tracks/python/exercises/reverse-string/solutions/527730884fde44daa1afc80b81442a2f
 7. Series https://exercism.io/tracks/python/exercises/series/solutions/bfedb451006245159e974dacfd752464
 8. ISBN Verifier https://exercism.io/tracks/python/exercises/isbn-verifier/solutions/052c7a683cdd437d9787bcc50e4ada06
+9. Perfect Numbers https://exercism.io/tracks/python/exercises/perfect-numbers/solutions/3b6cd44afe1c427aa97a2c98ef127cb0
