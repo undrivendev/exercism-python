@@ -2,9 +2,8 @@ from typing import Dict, List
 
 
 class Matrix:
-    _rows = []
-
     def __init__(self, matrix_string: str):
+        self._rows = []
         for r in [i for i in matrix_string.splitlines()]:
             self._rows.append([int(x) for x in r.split(" ")])
 
