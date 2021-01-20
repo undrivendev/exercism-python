@@ -6,8 +6,8 @@ Solutions of the Python track exercism problems.
 1. Hello World https://exercism.io/tracks/python/exercises/hello-world/solutions/60bce09b67dc4f52bfd4fafb839e597b
 2. Two Fer https://exercism.io/tracks/python/exercises/two-fer/solutions/4950467896fc4e509995a6e2e0647b0f
 3. Raindrops https://exercism.io/tracks/python/exercises/raindrops/solutions/90f1307e7e134072b1357d1837ff835b
-4. Raindrops https://exercism.io/tracks/python/exercises/raindrops/solutions/d77e8c058d8e4695ac58c8f1a80ab871
-5. Hamming https://exercism.io/tracks/python/exercises/raindrops/solutions/151b73cf252649a9871f368dac76d4c6
+4. High Scores https://exercism.io/tracks/python/exercises/raindrops/solutions/d77e8c058d8e4695ac58c8f1a80ab871
+5. Matrix https://exercism.io/tracks/python/exercises/raindrops/solutions/151b73cf252649a9871f368dac76d4c6
 
 
 ## Side exercises
